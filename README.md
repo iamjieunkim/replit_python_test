@@ -1,7 +1,7 @@
-# replit_python_test
-파이썬으로 웹 스크래퍼 만들기
+# Python 으로 웹 스크래퍼 만들기
 
-python
+<h3>python 개념 기본정리</h3>
+
 📌 파이썬의 자료형 
 
 문자열 숫자형 불 (bool) 리스트 튜플 딕셔너리 집합
