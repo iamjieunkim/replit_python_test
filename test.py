@@ -1,5 +1,4 @@
-my_name = "jieun"
-age = 24
-dead = False
-print("My name is", my_name)
-print("I am", age, "years old")
+#2.4 functions예제1
+print(True)
+print("hello")
+print(12)
