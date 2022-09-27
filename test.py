@@ -1,8 +1,9 @@
-#2.4 functions예제3
+#2.5 functions 예제2
 def say_hello():
   print("hello how r u?")
 
-say_hello()
-say_hello()
-say_hello()
-say_hello()
+def say_bye():
+  print("bye bye")
+  say_hello()
+
+say_bye()
