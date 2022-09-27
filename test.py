@@ -1,9 +1,7 @@
-#2.5 functions 예제2
-def say_hello():
-  print("hello how r u?")
+#2.6 Parameters 예제1
+def say_hello(name):
+  print("hello", name, "how r u?")
 
-def say_bye():
-  print("bye bye")
-  say_hello()
-
-say_bye()
+say_hello("jieun")
+say_hello("jungwoo")
+say_hello("hyunjae")
